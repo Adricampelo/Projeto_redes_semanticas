@@ -50,7 +50,7 @@ Noardo, Francesca et al. GeoBIM Benchmark 2019. Transactions in GIS, 2021.
 
 Reconhecimentos e Direitos Autorais
 @autor: [Adrielle Campelo Cunha] [Cauã Veloso Oliveira] [Rafael Araújo Diniz] 
-@contato: [Seus Emails - se quiserem]
+@contato: [rafaelidniz44@gmail.com]
 @data última versão: [13/06/2025]
 @versão: 1.0
 @outros repositórios: [[https://github.com/Adricampelo/Projeto_redes_semanticas]
